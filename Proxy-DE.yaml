@@ -1,5 +1,5 @@
-# 文件名：Proxy-DE.yaml
-# 用途：需要固定走德国节点的域名（走 ♻️ 德国自动）
+# 名称：Proxy-DE.yaml
+# ♻️ 德国自动
 payload:
   # 请在下方添加域名
   # - DOMAIN-SUFFIX,example.com
