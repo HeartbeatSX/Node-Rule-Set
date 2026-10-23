@@ -1,5 +1,5 @@
-# 文件名：Proxy-Default.yaml
-# 用途：兜底的代理，所有不知道走哪里的代理域名放这里（走 🚀 默认代理）
+# 名称：Proxy-Default.yaml
+# 分流 🚀 默认代理
 payload:
   # 请在下方添加域名，例如：
   # - DOMAIN-SUFFIX,example.com
