@@ -10,9 +10,7 @@ payload:
   - DOMAIN-SUFFIX,1688.com
 
   # 【量化】
-  - DOMAIN-SUFFIX,worldquantbrain.com
   - DOMAIN-SUFFIX,myworkday.com
-  - DOMAIN-SUFFIX,hualabtech.com
 
   # 【其他】
   - DOMAIN-SUFFIX,douyin.com
