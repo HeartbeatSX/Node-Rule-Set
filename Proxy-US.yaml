@@ -1,5 +1,5 @@
-# 文件名：Proxy-US.yaml
-# 用途：需要固定走美国节点的域名（走 ♻️ 美国自动）
+# 名称：Proxy-US.yaml
+# 分流 ♻️ 美国自动
 payload:
   # 请在下方添加域名，例如：
-  # - DOMAIN-SUFFIX,konachan.com
+  # - DOMAIN-SUFFIX,example.com
