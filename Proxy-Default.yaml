@@ -3,3 +3,5 @@
 payload:
   # 请在下方添加域名，例如：
   # - DOMAIN-SUFFIX,example.com
+
+  - DOMAIN-SUFFIX,worldquantbrain.com
