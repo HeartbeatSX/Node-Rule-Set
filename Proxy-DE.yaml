@@ -1,5 +1,5 @@
 # 名称：Proxy-DE.yaml
 # 分流 ♻️ 德国自动
 payload:
-  # 请在下方添加域名
+  # 请在下方添加域名，例如：
   # - DOMAIN-SUFFIX,example.com
