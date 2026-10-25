@@ -5,15 +5,16 @@ payload:
   # - DOMAIN-SUFFIX,example.com
 
   # 【电商】
-  - DOMAIN-SUFFIX,jinritemai.com
-  - DOMAIN-SUFFIX,chengji-inc.com
-  - DOMAIN-SUFFIX,1688.com
+  - DOMAIN-SUFFIX,jinritemai.com    #抖店
+  - DOMAIN-SUFFIX,chengji-inc.com    #妙手
+  - DOMAIN-SUFFIX,1688.com    #1688
 
   # 【量化】
-  - DOMAIN-SUFFIX,myworkday.com
+  - DOMAIN-SUFFIX,myworkday.com    #worldquant支付
 
   # 【其他】
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,xiaohongshu.com
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,douyin.com    #抖音
+  - DOMAIN-SUFFIX,xiaohongshu.com    #小红书
+  - DOMAIN-SUFFIX,bing.com    #bing
+  - DOMAIN-SUFFIX,bilibili.com    #哔哩哔哩
+  - DOMAIN-SUFFIX,cheapmodel.net    #API中转
