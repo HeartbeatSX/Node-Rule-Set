@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,bing.com    #bing
   - DOMAIN-SUFFIX,bilibili.com    #哔哩哔哩
   - DOMAIN-SUFFIX,cheapmodel.net    #API中转
+  - DOMAIN-SUFFIX,xdgame.com    #XDGAME
